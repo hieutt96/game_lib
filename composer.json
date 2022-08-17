@@ -1,5 +1,5 @@
 {
-    "name": "V88/lib",
+    "name": "game_lib",
     "type": "library",
     "description": "Game Lib",
     "keywords": ["relevant","tags","go","here"],
